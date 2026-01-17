@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">pr1_AndroidStudio_Krutov</string>
+    <string name="podbrosit_dice">Подбросить кубик</string>
+    <string name="click_button">Нажмите кнопку, чтобы бросить кубик</string>
 </resources>
