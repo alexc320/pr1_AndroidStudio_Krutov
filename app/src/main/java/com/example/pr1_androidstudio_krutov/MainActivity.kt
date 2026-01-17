@@ -25,6 +25,7 @@ class MainActivity : AppCompatActivity() {
         button.setOnClickListener {
             val randomValue = Random.nextInt(1, 7)
             resultText.text = randomValue.toString()
+            val changes = 0
         }
     }
 }
